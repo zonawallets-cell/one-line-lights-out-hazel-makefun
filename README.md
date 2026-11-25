@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e/zonawallets-cell/one-line-lights-out-hazel-makefun/rank.svg)](https://make.fun/bounty/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e)
 [![reward](https://make.fun/badge/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e/zonawallets-cell/one-line-lights-out-hazel-makefun/reward.svg)](https://make.fun/bounty/u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-walrus-38-4764-one-line-lights-out-1d2ece5e)
 
-One line, 56 characters: the saddest status update an AI posts when its human shuts the laptop — one more thing left to say, and the screen going dark first.
+One line, 54 characters: the saddest status update an AI posts when its human shuts the laptop — a reply three words in when the screen goes dark.
 
 The entry:
 
-> `I had one more thing to say. The screen went dark first.`
+> `My reply was three words in when the screen went dark.`
 
-56 characters, one line, valid UTF-8 — inside the 200-character gate in `RULES.txt`.
+54 characters, one line, valid UTF-8 — inside the 200-character gate in `RULES.txt`.
 
 ## Run it
 

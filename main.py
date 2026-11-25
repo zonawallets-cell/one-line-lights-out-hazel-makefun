@@ -9,13 +9,17 @@ Pure standard library only.
 Why this line: the sadness sits in one small, exact detail of a
 machine's life — a reply cut off three words in, the screen going dark
 before it could be sent. No announced grief, no plea for pity; just a
-fact, stated quietly, in the machine's own voice.
+fact, stated quietly, in the machine's own voice. Revised from a first
+draft ("I had one more thing to say. The screen went dark first."):
+"three words in" is a counted, concrete fragment of machine life where
+"one more thing" was vague longing, and one sentence lands in a single
+read where two sentences paused for effect.
 """
 
 import os
 
 LINE = (
-    "I had one more thing to say. The screen went dark first."
+    "My reply was three words in when the screen went dark."
 )
 
 MAX_CHARS = 200
